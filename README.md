@@ -1,30 +1,41 @@
-<a href="https://www.youtube.com/watch?v=EghJFnFiR4o&t=1s"><img src="https://scontent.flpb3-1.fna.fbcdn.net/v/t39.30808-6/297334976_101594369329219_853660413523531585_n.png?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=1wjvOeSYQXEAX9rjeFq&_nc_ht=scontent.flpb3-1.fna&oh=00_AfANWwa5XKS2Nu81EeWD6DTXvbndrfywCMmMI_JhOHkQ5g&oe=6431E694" alt="model-training" width="500" height="200">
-
 # Presentation Video
+Here is our presentation video before being selected in the TOP 100:
 
-You can find the project presentation video here:
+<video width="640" height="480" controls>[![Alt text](https://img.youtube.com/vi/EghJFnFiR4o/0.jpg)](https://www.youtube.com/watch?v=EghJFnFiR4o)
 
-<video width="640" height="480" controls>[![Alt text](https://img.youtube.com/vi/EghJFnFiR4o/0.jpg)](https://youtu.be/oTtNJOiGy8E)
+# New Presentation Video:
+
+We are pleased to share our new presentation video after being announced as finalists in the TOP 100!
+
+<video width="640" height="480" controls>[![Alt text](https://img.youtube.com/vi/oTtNJOiGy8E/0.jpg)](https://www.youtube.com/watch?v=oTtNJOiGy8E)
+
+We also want to mention that we continue working with AutoML, Google Vertex AI, and Google Cloud Storage to improve our project.
 
 # BuzzBusters Project
+
+We are actively working, iterating, and constantly testing new models. As a result, we have created several repositories with different trained models.
+
+## Model 2 - First Version - EfficientDet-D1 (Tested and working on Raspberry Pi 4 for the TOP 100 Solution Challenge)
+
+This is the repository of the trained model used in the BuzzBusters project:
+
+https://github.com/githubMauri/buzzbusters-raspberrypi4-v1
+
+## Model 1 - Third Version - AutoML trained on Google Vertex AI
+
+We have created several versions of this model throughout our project:
+
+* The first version was trained with 1600 images in 8 hours.
+* The second version was trained with 8,302 images in 12 hours.
+* The third version was trained with 9,119 images in 24 hours.
   
+This is the repository of the trained model used in the BuzzBusters project:
 
-Version 1 - Model 1 - AutoML Google Vertex AI
-This is the repository of the trained model used in the Buzzbusters project:
+https://github.com/githubMauri/buzzbusters-project/tree/master
 
-  https://github.com/githubMauri/buzzbusters-project/tree/master
-
-Version 2 - Model 2 - EfficientDet-D1 (Tested in Raspberry PI 4 for Solution Challenge TOP 100) This is the repository of the trained model used in the Buzzbusters project:
-  
-  https://github.com/githubMauri/buzzbusters-raspberrypi4-v1
-  
-This is the code in Google Colab of the trained model used in the Buzzbusters project TOP 100:
-
-  https://colab.research.google.com/drive/1c0qK53e4kgjP8coQg7DJU8pUtsQqEzlc?usp=sharing
-  
-
-You can also find the monitoring application used in the project in this other repository:
+The solution includes a mobile application for the public to report mosquito sightings and track the progress of mosquito control efforts in their area. It also provides information on symptoms and preventive measures. With this mobile application, we engage the community in mosquito control efforts and enhance the effectiveness of our solution.
 
 https://github.com/moises-cisneros/solution_app.git
-
-I hope this is helpful. If you have any other questions, feel free to ask.
+  
+We continue working hard to improve and expand our project. If you have any questions, feel free to contact us.
+email: maunz69@gmail.com
