@@ -12,15 +12,15 @@ You can find the project presentation video here:
 Version 1 - Model 1 - AutoML Google Vertex AI
 This is the repository of the trained model used in the Buzzbusters project:
 
-https://github.com/githubMauri/buzzbusters-project/tree/master
+  https://github.com/githubMauri/buzzbusters-project/tree/master
 
-Version 2 - Model 2 - EfficientDet-D1 (Tested in Raspberry PI 4 for Solution Challenge TOP 100)
-This is the repository of the trained model used in the Buzzbusters project:
-https://github.com/githubMauri/buzzbusters-raspberrypi4-v1
+Version 2 - Model 2 - EfficientDet-D1 (Tested in Raspberry PI 4 for Solution Challenge TOP 100) This is the repository of the trained model used in the Buzzbusters project:
+  
+  https://github.com/githubMauri/buzzbusters-raspberrypi4-v1
   
 This is the code in Google Colab of the trained model used in the Buzzbusters project TOP 100:
 
-https://colab.research.google.com/drive/1c0qK53e4kgjP8coQg7DJU8pUtsQqEzlc?usp=sharing
+  https://colab.research.google.com/drive/1c0qK53e4kgjP8coQg7DJU8pUtsQqEzlc?usp=sharing
   
 
 You can also find the monitoring application used in the project in this other repository:
