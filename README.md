@@ -2,13 +2,13 @@
 
 Here is our presentation video before being selected in the TOP 100:
 
-[![Postulation](https://img.youtube.com/vi/EghJFnFiR4o/0.jpg)](https://www.youtube.com/watch?v=EghJFnFiR4o "Postulation")
+[![Postulation](https://img.youtube.com/vi/5v0ow3zkSEM/0.jpg)](https://www.youtube.com/watch?v=5v0ow3zkSEM "Postulation")
   
 # New Presentation Video:
 
 We are pleased to share our new presentation video after being announced as finalists in the TOP 100!
-
-[![TOP 100](https://img.youtube.com/vi/oTtNJOiGy8E/0.jpg)](https://www.youtube.com/watch?v=oTtNJOiGy8E "TOP 100")
+https://youtu.be/5v0ow3zkSEM?si=BP6AY4CEA_Qk1rYN
+[![TOP 100](https://img.youtube.com/vi/5v0ow3zkSEM/0.jpg)](https://www.youtube.com/watch?v=5v0ow3zkSEM "TOP 100")
 
 We also want to mention that we continue working with AutoML, Google Vertex AI, and Google Cloud Storage to improve our project.
 
