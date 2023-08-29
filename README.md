@@ -2,7 +2,7 @@
 
 Here is our presentation video before being selected in the TOP 100:
 
-[![Postulation](https://img.youtube.com/vi/5v0ow3zkSEM/0.jpg)](https://www.youtube.com/watch?v=5v0ow3zkSEM "Postulation")
+[![Postulation](https://img.youtube.com/vi/EghJFnFiR4o/0.jpg)](https://www.youtube.com/watch?v=EghJFnFiR4o "Postulation")
   
 # New Presentation Video:
 
